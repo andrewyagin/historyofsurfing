@@ -1,0 +1,21 @@
+h1 {
+  font-family: 'Felipa', sans-serif;
+  font-size: 100px;
+  position: fixed;
+
+}
+h2 {
+  font-family: 'Hanalei Fill', sans-serif;
+  position: center;
+}
+
+body {
+  font-family: 'Hanalei Fill', sans-serif;
+  background-image: url("https://i.ytimg.com/vi/GakGmvQVaeA/maxresdefault.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+
+
